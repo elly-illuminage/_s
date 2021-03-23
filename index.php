@@ -9,7 +9,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
- * @package _s
+ * @package Hello World
  */
 
 get_header();
@@ -53,5 +53,5 @@ get_header();
 	</main><!-- #main -->
 
 <?php
-get_sidebar();
+getHello Worldidebar();
 get_footer();
